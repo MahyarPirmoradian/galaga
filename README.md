@@ -1,5 +1,6 @@
- 
+# Galaga
 
+Shoot the golden fishes. Use + buttons to move. The fishes can be fast or slow. If they are slow, you can use the normal laser by pressing A. If they are fast, you can use the rainbow laser by pressing B.
 
 > Open this page at [https://mahyarpirmoradian.github.io/galaga/](https://mahyarpirmoradian.github.io/galaga/)
 
